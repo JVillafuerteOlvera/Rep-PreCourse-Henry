@@ -1,2 +1,2 @@
-# Rep-PreCourse-Henry
-Este es otro repositorio de.prueba del modulo dos del precurso de Henry
+Este proyecto fue una prueba de como crear un repositorio y clonarlo desde github a mi escritorio local. 
+
